@@ -272,7 +272,6 @@
             color: #fff
             background: rgb(240, 20 ,20)
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4)
-
         .price
           display: inline-block
           vertical-align: top
@@ -293,8 +292,6 @@
           line-height: 24px
           color: rgba(255, 255, 255, 0.4)
           font-size: 10px
-
-
       .content-right
         flex: 0 0 105px
         width: 105px
